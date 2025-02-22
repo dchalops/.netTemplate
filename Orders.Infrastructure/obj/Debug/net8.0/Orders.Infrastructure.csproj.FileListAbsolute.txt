@@ -1,0 +1,17 @@
+E:\Personal\Postulaciones\.NetC#\Orders.Infrastructure\bin\Debug\net8.0\Orders.Infrastructure.deps.json
+E:\Personal\Postulaciones\.NetC#\Orders.Infrastructure\bin\Debug\net8.0\Orders.Infrastructure.runtimeconfig.json
+E:\Personal\Postulaciones\.NetC#\Orders.Infrastructure\bin\Debug\net8.0\Orders.Infrastructure.dll
+E:\Personal\Postulaciones\.NetC#\Orders.Infrastructure\bin\Debug\net8.0\Orders.Infrastructure.pdb
+E:\Personal\Postulaciones\.NetC#\Orders.Infrastructure\bin\Debug\net8.0\Orders.Domain.dll
+E:\Personal\Postulaciones\.NetC#\Orders.Infrastructure\bin\Debug\net8.0\Orders.Domain.pdb
+E:\Personal\Postulaciones\.NetC#\Orders.Infrastructure\obj\Debug\net8.0\Orders.Infrastructure.csproj.AssemblyReference.cache
+E:\Personal\Postulaciones\.NetC#\Orders.Infrastructure\obj\Debug\net8.0\Orders.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Personal\Postulaciones\.NetC#\Orders.Infrastructure\obj\Debug\net8.0\Orders.Infrastructure.AssemblyInfoInputs.cache
+E:\Personal\Postulaciones\.NetC#\Orders.Infrastructure\obj\Debug\net8.0\Orders.Infrastructure.AssemblyInfo.cs
+E:\Personal\Postulaciones\.NetC#\Orders.Infrastructure\obj\Debug\net8.0\Orders.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Personal\Postulaciones\.NetC#\Orders.Infrastructure\obj\Debug\net8.0\Orders.Infrastructure.csproj.CopyComplete
+E:\Personal\Postulaciones\.NetC#\Orders.Infrastructure\obj\Debug\net8.0\Orders.Infrastructure.dll
+E:\Personal\Postulaciones\.NetC#\Orders.Infrastructure\obj\Debug\net8.0\refint\Orders.Infrastructure.dll
+E:\Personal\Postulaciones\.NetC#\Orders.Infrastructure\obj\Debug\net8.0\Orders.Infrastructure.pdb
+E:\Personal\Postulaciones\.NetC#\Orders.Infrastructure\obj\Debug\net8.0\Orders.Infrastructure.genruntimeconfig.cache
+E:\Personal\Postulaciones\.NetC#\Orders.Infrastructure\obj\Debug\net8.0\ref\Orders.Infrastructure.dll
